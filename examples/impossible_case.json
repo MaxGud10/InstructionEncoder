@@ -1,0 +1,16 @@
+{
+  "length": "8",
+  "fields": [
+    { "R0": "5" },
+    { "R1": "5" },
+    { "R2": "5" }
+  ],
+  "instructions": [
+    {
+      "insns": ["add", "sub"],
+      "operands": ["R0", "R1", "R2"],
+      "format": "alu",
+      "comment": "impossible"
+    }
+  ]
+}
